@@ -1,0 +1,29 @@
+{
+  "name": "mqttbrowser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhineMhe/mqttBrowser.git"
+  },
+  "keywords": [
+    "node",
+    "mqtt"
+  ],
+  "author": "Aeromel Laure",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhineMhe/mqttBrowser/issues"
+  },
+  "homepage": "https://github.com/mhineMhe/mqttBrowser#readme",
+  "engines": {
+    "node": "10.16"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
